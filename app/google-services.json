@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "778870552351",
+    "firebase_url": "https://gezirehberim-720f9.firebaseio.com",
+    "project_id": "gezirehberim-720f9",
+    "storage_bucket": "gezirehberim-720f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778870552351:android:ed697ddb872c1594",
+        "android_client_info": {
+          "package_name": "com.example.gokhan.gezirehberim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778870552351-7d8s7jjnskplr4aglo4eq7pb208fhj16.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gokhan.gezirehberim",
+            "certificate_hash": "94cfcfff04cc0e78018f8635b2ec30ec83aea226"
+          }
+        },
+        {
+          "client_id": "778870552351-o6v8qua9j1njflcjp1k3mg20r5kef8ti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1eb1ms4rKy9NdKZOoYNojYEn4Uy7O_hk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778870552351-o6v8qua9j1njflcjp1k3mg20r5kef8ti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
